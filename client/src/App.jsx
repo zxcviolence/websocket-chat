@@ -1,5 +1,12 @@
+import LongPulling from "./LongPulling";
+import "./app.css";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <LongPulling />
+    </>
+  );
 }
 
 export default App;
